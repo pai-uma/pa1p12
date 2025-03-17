@@ -1,5 +1,5 @@
 
-public class PruebaLibreria1 {
+public class PruebaLibreria {
 	/* Libros a añadir
 	("george orwell", "1984", 8.20)
 	("Philip K. Dick", "?Suenan los androides con ovejas electricas?", 3.50)
